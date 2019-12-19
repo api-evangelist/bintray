@@ -1,0 +1,64 @@
+{
+    "name": "bintray",
+    "description": "Bintray gives developers a CDN-based, reliable, download center with REST automation & support for RPM & Debian packages, and generic software distribution",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1603-bintray.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "coding",
+        "have api",
+        "sharing",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bintray\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "bintray",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1603-bintray.jpg",
+            "humanURL": "https:\/\/bintray.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bintray-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.bintray.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.bintray.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.bintray.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/bintray.com\/docs\/api.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/bintray"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bintray"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/bintray.com\/"
+        }
+    ]
+}
